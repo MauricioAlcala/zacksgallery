@@ -1,12 +1,12 @@
 title: Zacks Gallery
 email: contact@zacksgallery.com
-phone: +1 (760) 886-9991
+phone: +1-760-886-9991
 description: >- 
   Zacks Gallery strives to create a bridge for humankind to connect and delight in the different expressions of each artist that wishes to convey his thoughts, visions, historical background, ideals and overall love and respect towards this World.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zacksgallery.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-MZ2M88R2BG
-lang: es-mx
+lang: us-en
 
 
 social:
@@ -47,7 +47,7 @@ defaults:
       lang: "es-mx"
       lazy: true
       image: 
-        path: /img/img-og.png
+        path: /img/zacks-gallery-og.png
         height: 192
         width: 192
       author: Rosarito Centro  
