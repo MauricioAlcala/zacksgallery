@@ -1,0 +1,23 @@
+<section class="gallery-area section-gap gallery-page-area" id="gallery">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="menu-content pb-70 col-lg-8">
+                <div class="title text-center">
+                    <h1 class="mb-10">{{artist.name}} Exhibition Gallery</h1>
+                    <p>{{artist.description}}.</p>
+                </div>
+            </div>
+        </div>
+        <div id="grid-container" class="row">
+            <!-- <a class="single-gallery" href="/img/ronbitz/2x3-pies-acrilico-sobre-madera-sin-titulo-2025-vendido.webp">
+                <img class="grid-item" src="/img/ronbitz/2x3-pies-acrilico-sobre-madera-sin-titulo-2025-vendido.webp">
+            </a> -->
+
+            {% for image in page.images %}
+            <a class="single-gallery" href="{{ image }}">
+                <img class="grid-item" src="{{ image }}">
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
