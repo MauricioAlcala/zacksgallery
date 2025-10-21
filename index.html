@@ -65,7 +65,7 @@ layout: default
 				</div>
 			</div>
 			<div class="row">
-				{% for artist in site.artist %}
+				{% for artist in site.artists %}
 				<div class="col-lg-6 event-left">
 					<div class="single-events">
 						<img class="img-fluid" src="{{artist.img}}" alt="{{artist.name}}">
@@ -73,52 +73,12 @@ layout: default
 							<h4>{{artist.name}}</h4>
 						</a>
 						<h6><span>21st February</span> at Central government museum</h6>
-						<p>
-							{{artist.descrition}} 
-
-						<a href="#" class="primary-btn text-uppercase">View Details</a>
-					</div>
-					<div class="single-events">
-						<img class="img-fluid" src="img/becris/933b0222-e2ec-446d-9b04-291b06aa77fc.JPG.webp" alt="">
-						<a href="#">
-							<h4>BECRIS</h4>
-						</a>
-						<h6><span>21st February</span> at Central government museum</h6>
-						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher
-							conduct standards especially.
-						</p>
-						<a href="#" class="primary-btn text-uppercase">View Details</a>
+						<p>{{artist.description}}</p>
+						<a href="{{ artist.url | relative_url }}" class="primary-btn text-uppercase">Ver detalles</a>
 					</div>
 				</div>
 				{% endfor %}
-				<div class="col-lg-6 event-right">
-					<div class="single-events">
-						<a href="#">
-							<h4>RONBITZ</h4>
-						</a>
-						<h6><span>21st February</span> at Central government museum</h6>
-						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher
-							conduct standards especially.
-						</p>
-						<a href="#" class="primary-btn text-uppercase">View Details</a>
-						<img class="img-fluid" src="img/ronbitz/ufo-drive-acrilico-madera-2024-ronbitz.webp" alt="">
-					</div>
-					<div class="single-events">
-
-						<a href="#">
-							<h4>MARIJE</h4>
-						</a>
-						<h6><span>21st February</span> at Central government museum</h6>
-						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher
-							conduct standards especially.
-						</p>
-						<a href="#" class="primary-btn text-uppercase">View Details</a>
-						<img class="img-fluid" src="img/marije/marije-3.jpg.webp" alt="">
-					</div>
-				</div>
+				
 			</div>
 		</div>
 	</section>

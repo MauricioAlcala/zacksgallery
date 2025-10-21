@@ -39,7 +39,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 collections:
-  - artists
+  artists:
+    output: true
 
 defaults:
   -
