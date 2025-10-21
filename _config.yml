@@ -38,6 +38,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+collections:
+  - artists
 
 defaults:
   -
@@ -50,4 +52,4 @@ defaults:
         path: /img/zacks-gallery-og.png
         height: 192
         width: 192
-      author: Rosarito Centro  
+      author: Rosarito Centro
