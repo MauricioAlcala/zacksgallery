@@ -1,12 +1,21 @@
 ---
 name: Becris
-img: /img/becris/933b0222-e2ec-446d-9b04-291b06aa77fc.JPG.webp
+img: /img/becris/septima-pintura.JPG.webp
+slogan: Becris Armando, born in 1955 in Tijuana, Baja California, is a Mexican painter based in Rosarito.
 description: >
-  Benjamin is a contemporary Dadaist artist whose work challenges traditional notions of art and aesthetics. Through a mix of absurdity, irony, and unconventional materials, Benjamin creates thought-provoking pieces that invite viewers to question societal norms and embrace the unexpected.
+  Becris Armando, born in 1955 in Tijuana, Baja California, is a Mexican painter based in Rosarito, renowned for his vibrant oil paintings that capture
+  the soul of Baja´s coastal and border landscapes. Specializing in evocative fisherman scenes, his works vividly portray the rugged lives of local fishermen, blending realistic detail with emotional depth to honor the region´s maritime heritage. A key figure in Rosarito´s art scene, Becris exhibits at Polo´s Fine Art Gallery and has been featured in PBS´S Crossing South, earning international praise for his depictions of Mexican culture and coastal life.
 layout: gallery
 images:
-  - /img/ami/ami3.jpg.webp
-  - /img/becris/933b0222-e2ec-446d-9b04-291b06aa77fc.JPG.webp
-  - /img/marije/marije.jpg.webp
-  - /img/marije/marije-2.jpg.webp
+  -  /img/becris/primera-pintura.JPG.webp
+  -  /img/becris/segunda-pintura.JPG.webp
+  -  /img/becris/tercera-pintura.JPG.webp
+  -  /img/becris/cuarta-pintura.JPG.webp
+  -  /img/becris/quinta-pintura.JPG.webp
+  - /img/becris/sexta-pintura.JPG.webp
+  - /img/becris/septima-pintura.JPG.webp
+  - /img/becris/octava-pintura.JPG.webp
+  - /img/becris/novena-pintura.JPG.webp
+  - /img/becris/decima-pintura.JPG.webp
+  - /img/becris/onceava-pintura.JPG.webp
 ---
