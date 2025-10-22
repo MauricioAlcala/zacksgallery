@@ -69,7 +69,7 @@ layout: default
 				<div class="col-lg-6 event-left">
 					<div class="single-events">
 						<img class="img-fluid" src="{{artist.img}}" alt="{{artist.name}}">
-						<a href="gallery.html">
+						<a href="{{ artist.url | relative_url }}">
 							<h4>{{artist.name}}</h4>
 						</a>
 						<h6> {{artist.slogan}} </h6>
