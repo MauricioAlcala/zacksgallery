@@ -1,6 +1,6 @@
 ---
 name: Marije
-img: /img/marije/marije-2.jpg.webp
+img: /img/marije/marije-12.jpg.webp
 slogan: description
 description: >
  description
