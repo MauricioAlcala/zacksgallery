@@ -50,7 +50,7 @@ defaults:
       lang: "es-mx"
       lazy: true
       image: 
-        path: /img/zacks-gallery-og.png.webp
-        height: 512
-        width: 190
+        path: /img/zacks-gallery-og.webp
+        height: 180
+        width: 180
       author: Rosarito Centro
