@@ -1,10 +1,25 @@
+<section class="banner-area relative" id="home">
+	<div class="overlay overlay-bg"></div>
+	<div class="container">
+		<div class="row d-flex align-items-center justify-content-center">
+			<div class="about-content col-lg-12">
+				<h1 class="text-white">
+					{{page.name}}
+				</h1>
+				<p class="text-white link-nav"><a href="/index.html">Home </a> <span class="lnr lnr-arrow-right"></span>
+					<a href="{{ artist.url | relative_url }}"> {{page.name}}</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="gallery-area section-gap gallery-page-area" id="gallery">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="menu-content pb-70 col-lg-8">
                 <div class="title text-center">
-                    <h1 class="mb-10">{{artist.name}} Exhibition Gallery</h1>
-                    <p>{{artist.description}}.</p>
+                    <h1 class="mb-10">{{page.name}} Exhibition Gallery</h1>
+                    <p>{{page.description}}.</p>
                 </div>
             </div>
         </div>

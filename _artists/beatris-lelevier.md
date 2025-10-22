@@ -1,5 +1,5 @@
 ---
-name: Ami Gastelum
+name: Beatris Lelevier
 img: /img/ami/ami3.jpg.webp
 slogan:  Ami Gastelum is a Mexican visual artist and curator from Playas de Rosarito, Baja California.
 description: >
