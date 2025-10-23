@@ -1,5 +1,5 @@
 ---
-name: Marije
+name: Maria de Jesus Rodriguez
 img: /img/marije/marije-12.jpg.webp
 slogan: Marije Rodríguez is a Mexican multidisciplinary artist originally from Mexicali, Baja California.
 description: >
