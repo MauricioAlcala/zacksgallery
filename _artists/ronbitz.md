@@ -1,7 +1,7 @@
 ---
 name: Ronbitz
 img: /img/ronbitz/tercera-obra.JPG.webp
-slogan: description
+slogan: My art is a wild tapestry of the human spirit.
 description: >
   My art is a wild tapestry of the human spirit, stitched together from the fragments
   of imagination and the echoes of unseen worlds. I use bold strokes, jagged lines,
