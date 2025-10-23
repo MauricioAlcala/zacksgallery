@@ -50,7 +50,7 @@
 }
 
 body {
-  color: #777777;
+  color: #666666;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -2648,7 +2648,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area {
   padding-top: 100px;
-  background-color: #fff;
+  background-color: #f1de90;
 }
 
 .footer-area h6 {
@@ -2669,12 +2669,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 0.3s ease 0s;
 }
 
-.footer-social a:hover i {
-  color: #88d200;
-}
+/*.footer-social a:hover i {
+  color: #f1de90;
+}*/
 
 .footer-social i {
-  color: #cccccc;
+  color: #7b5c23;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
