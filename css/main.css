@@ -50,7 +50,7 @@
 }
 
 body {
-  color: #777777;
+  color: #666666;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -2228,7 +2228,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background-color: #88d200;
+  background-color: #7b5c23;
   line-height: 42px;
   padding-left: 40px;
   padding-right: 40px;
@@ -2264,9 +2264,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn:hover {
-  color: #88d200;
+  color: #f1de90 !important;
   background-color: transparent;
-  border-color: #88d200;
+  border-color: #f1de90 !important;
 }
 
 .primary-btn.white {
@@ -2648,7 +2648,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area {
   padding-top: 100px;
-  background-color: #fff;
+  background-color: #f1de90;
 }
 
 .footer-area h6 {
@@ -2669,12 +2669,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 0.3s ease 0s;
 }
 
-.footer-social a:hover i {
-  color: #88d200;
-}
+/*.footer-social a:hover i {
+  color: #f1de90;
+}*/
 
 .footer-social i {
-  color: #cccccc;
+  color: #7b5c23;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2728,7 +2728,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-footer-widget .click-btn {
-  background-color: #88d200;
+  background-color: #7b5c23;
   color: #fff;
   border-radius: 0;
   border-top-left-radius: 0px;
@@ -2797,7 +2797,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-text a, .footer-text i {
-  color: #88d200;
+  color: #7b5c23;
 }
 
 .whole-wrap {

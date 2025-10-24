@@ -1,5 +1,5 @@
 ---
-name: Becris
+name: Becris Armando
 img: /img/becris/septima-pintura.JPG.webp
 slogan: Becris Armando, born in 1955 in Tijuana, Baja California, is a Mexican painter based in Rosarito.
 description: >

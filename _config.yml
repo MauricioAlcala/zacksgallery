@@ -2,7 +2,12 @@ title: Zacks Gallery
 email: contact@zacksgallery.com
 phone: +1-760-886-9991
 description: >- 
-  Zacks Gallery strives to create a bridge for humankind to connect and delight in the different expressions of each artist that wishes to convey his thoughts, visions, historical background, ideals and overall love and respect towards this World.
+  Zacks Gallery strives to create a bridge for humankind to connect and delight in the diverse
+  expressions of artists who  wish to convey their thoughts, visions, historical backgrounds,
+  ideals and love for this World.
+  Through it all, we value diversity and light to illuminate life in every way,
+  invigorating the art world, our communities, cities and countries.
+  Our vision is to share our artist's work internationally, showcasing a culturally diverse world view.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zacksgallery.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-MZ2M88R2BG
@@ -50,7 +55,7 @@ defaults:
       lang: "es-mx"
       lazy: true
       image: 
-        path: /img/zacks-gallery-og.webp
+        path: /img/zacks-gallery-og-or.webp
         height: 180
         width: 180
       author: Rosarito Centro

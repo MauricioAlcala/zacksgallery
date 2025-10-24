@@ -1,5 +1,5 @@
 ---
-name: Beatris Lelevier
+name: Beatriz Lelevier
 img: /img/beatriz-lelevier/beatriz-lelevier-6.jpeg.webp
 slogan: Art is a refuge, a haven of peace, colors and passion
 description: >
